@@ -4,36 +4,32 @@ BankOpt: Targeted Marketing Analysis involves conducting a focused examination o
 ![](https://img-c.udemycdn.com/course/750x422/4769410_0b05_5.jpg)
 
 **Objective:**<br>
-Analyzing Global Dining Trends with Zomato Data involves monitoring and analyzing data related to restaurants worldwide. This includes evaluating restaurant details (such as name, location, and cuisine), pricing trends, customer ratings, and delivery options. By analyzing these factors, we aim to uncover insights into global dining preferences, identify key factors influencing restaurant performance, and understand consumer behaviors and market dynamics in the culinary industry.
+The objective of the "BankOpt: Targeted Marketing Analysis" project is to leverage data analytics to optimize targeted marketing strategies for a banking institution. By analyzing customer demographic and behavioral data, including age, job type, marital status, education level, credit status, and banking interactions (such as loan status and average balance), the project aims to identify key customer segments and their likelihood of subscribing to term deposits. Through this analysis, the project seeks to develop personalized marketing campaigns tailored to specific customer profiles, maximizing the effectiveness of marketing efforts and improving the bank's subscription rates for term deposits. Additionally, the project aims to evaluate past marketing campaign outcomes and leverage predictive analytics to enhance customer engagement and retention strategies, ultimately driving business growth and profitability for the bank.
 
 **Description of Dataset**<br>
-This dataset comprises a comprehensive collection of restaurant listings from Zomato's global database. The dataset includes various fields providing detailed information about each restaurant:
+This dataset comprises detailed information about bank customers and their interactions, relevant for targeted marketing analysis:
 
-Restaurant ID: Unique identifier for each restaurant.<br>
-Restaurant Name: The name of the restaurant.<br>
-Country Code: Numerical code representing the country where the restaurant is located.<br>
-City: The city where the restaurant is situated.<br>
-Address: Full address of the restaurant.<br>
-Locality: The locality of the restaurant within the city.<br>
-Locality Verbose: Detailed locality information, combining locality and city.<br>
-Longitude: Geographic longitude of the restaurant.<br>
-Latitude: Geographic latitude of the restaurant.<br>
-Cuisines: Types of cuisines offered by the restaurant, separated by commas.<br>
-Average Cost for two: The average cost for a meal for two people (in the restaurant's local currency).<br>
-Currency: The type of currency in which the average cost is represented.<br>
-Has Table booking: Indicates whether the restaurant allows table bookings ('Yes' or 'No').<br>
-Has Online delivery: Indicates whether the restaurant offers online delivery ('Yes' or 'No').<br>
-Is delivering now: Indicates if the restaurant is currently offering delivery services ('Yes' or 'No').<br>
-Switch to order menu: Indicates if the restaurant has switched to an order menu available online ('Yes' or 'No').<br>
-Price range: Numeric representation of the restaurant's price range (1-4).<br>
-Aggregate rating: The overall rating of the restaurant, based on user reviews.<br>
-Rating color: A color associated with the aggregate rating, for visual representation.<br>
-Rating text: Textual representation of the rating (e.g., Excellent, Very Good, Good, Average, Poor).<br>
-Votes: The number of votes the restaurant has received.<br>
+Age: Age of the client.<br>
+Job: Type of job the client holds.<br>
+Marital: Marital status of the client.<br>
+Education: Client's education level.<br>
+Default: Indicates if the client has credit in default.<br>
+Balance: Average yearly balance of the client, in euros.<br>
+Housing: Indicates if the client has a housing loan.<br>
+Loan: Indicates if the client has a personal loan.<br>
+Contact: Type of communication mode used for contact.<br>
+Day: Day of the last contact.<br>
+Month: Month of the last contact.<br>
+Duration: Duration of the last contact in seconds.<br>
+Campaign: Number of contacts performed during this campaign.<br>
+Pdays: Days since the client was last contacted from a previous campaign (999 indicates the client was not contacted).<br>
+Previous: Number of contacts before this campaign.<br>
+Outcome: Outcome of the previous marketing campaign.<br>
+Y: Indicates if the client subscribed to a term deposit.<br>
 
-This dataset is valuable for exploring and analyzing global dining trends, including culinary preferences, pricing patterns, restaurant popularity, and service availability. Researchers, analysts, and stakeholders can leverage this dataset to gain insights into the culinary landscape and inform strategic decisions related to restaurant management, customer experiences, and market competitiveness.
+This dataset is valuable for analyzing customer demographics, behaviors, and interactions within the banking industry. Researchers and analysts can leverage this data to understand customer preferences, predict subscription likelihood, and optimize targeted marketing strategies. Insights derived from this dataset can inform decision-making processes to enhance customer engagement and retention within the banking sector.
 
-[Dataset](https://www.kaggle.com/datasets/shrutimehta/zomato-restaurants-data)
+[Dataset](https://archive.ics.uci.edu/dataset/222/bank+marketing)
 
 **Here, are the operations that I performed to develop this Dashboard**
 - Data Gathering
