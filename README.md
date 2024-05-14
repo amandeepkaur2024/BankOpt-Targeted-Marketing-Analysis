@@ -42,9 +42,10 @@ This dataset is valuable for analyzing customer demographics, behaviors, and int
 [Notebook](https://github.com/amandeepkaur2024/Zomato)
 
 **Here, some key insights derived from the analysis of the Analyzing Global Dining Trends with Zomato Data**<br>
-- Total Restaurants - 9551, Total Cities - 141, Total Countries - 15, Total Cuisines - 1825, Average Rating - 2.67, Average Cost - 1201
-- Top Cuisines: North Indian, Chinese, Fast Food, Bakery, Cafe
-- Most restaurants have ratings centered around 2.5-3.0, indicating a moderate satisfaction level among customers.
-- The average cost for dining out varies significantly across different cities, with some cities being more expensive than others.
-- There is notable variability in restaurant price ranges across different localities or cities, highlighting diverse affordability levels for dining out experiences.
-- Restaurants offering online delivery and table booking trend to have higher ratings compared to those that do not. 
+- Average number of contacts per clients - 2.76, Total number of contacts - 125k, Total Subscribed Clients - 45,211, Subscription Rate - 11.70%.
+- Maximum number of clients are within age range 30-55.
+- Clients most likely to subscribe term deposit in month of May.
+- Profit of an ideal client most likely to subscribe term deposit looks like:
+   1. Age Range: 30-55
+   2. Job Profile: management
+   3. Education Type: secondary
