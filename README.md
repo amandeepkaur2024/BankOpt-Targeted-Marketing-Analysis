@@ -39,7 +39,7 @@ This dataset is valuable for analyzing customer demographics, behaviors, and int
 - Data Visualization
 - Sharing Insights
 
-[Notebook](https://github.com/amandeepkaur2024/Zomato)
+[Notebook](https://github.com/amandeepkaur2024/BankOpt-Targeted-Marketing-Analysis)
 
 **Here, some key insights derived from the analysis of the Analyzing Global Dining Trends with Zomato Data**<br>
 - Average number of contacts per clients - 2.76, Total number of contacts - 125k, Total Subscribed Clients - 45,211, Subscription Rate - 11.70%.
