@@ -39,13 +39,16 @@ This dataset is valuable for analyzing customer demographics, behaviors, and int
 - Data Visualization
 - Sharing Insights
 
-[Notebook](https://github.com/amandeepkaur2024/BankOpt-Targeted-Marketing-Analysis)
+**Key performance indicator for your Tableau dashboard on BankOpt: Targeted Marketing Analysis**
+- Average number of contacts per client: Measure of the average outreach attempts made to individual clients.
+- Total number of contacts: Cumulative count of all outreach attempts made by the marketing team.
+- Total subscribed contacts: Count of contacts who have subscribed or opted in for the promoted services.
+- Subscription rate: Percentage indicating the proportion of subscribed contacts among the total contacted, reflecting the effectiveness of marketing efforts.
 
-**Here, some key insights derived from the analysis of the Analyzing Global Dining Trends with Zomato Data**<br>
-- Average number of contacts per clients - 2.76, Total number of contacts - 125k, Total Subscribed Clients - 45,211, Subscription Rate - 11.70%.
-- Maximum number of clients are within age range 30-55.
-- Clients most likely to subscribe term deposit in month of May.
-- Profit of an ideal client most likely to subscribe term deposit looks like:
-   1. Age Range: 30-55
-   2. Job Profile: management
-   3. Education Type: secondary
+**Key performance indicator for your Tableau dashboard on BankOpt: Targeted Marketing Analysis**
+- Age distribution of clients: Visualization depicting the spread of clients across different age groups.
+- Personal loan: Analysis highlighting the uptake of personal loan products among the client base.
+- Housing loan: Insights into the engagement levels and preferences regarding housing loan offerings.
+- Highest subscription rate of contacts: Identification of the demographic or behavioral segment with the highest rate of subscription.
+- Monthly subscription: Analysis of subscription trends over different months to identify seasonal patterns or trends.
+- Subscription rates: Jobs and education comparison: Comparison of subscription rates among different occupational and educational backgrounds to uncover any correlations or preferences.
