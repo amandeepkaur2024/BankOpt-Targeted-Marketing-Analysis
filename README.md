@@ -45,7 +45,7 @@ This dataset is valuable for analyzing customer demographics, behaviors, and int
 - Total subscribed contacts: Count of contacts who have subscribed or opted in for the promoted services.
 - Subscription rate: Percentage indicating the proportion of subscribed contacts among the total contacted, reflecting the effectiveness of marketing efforts.
 
-**Key performance indicator for your Tableau dashboard on BankOpt: Targeted Marketing Analysis**
+**Key insights for your Tableau dashboard on BankOpt: Targeted Marketing Analysis**
 - Age distribution of clients: Visualization depicting the spread of clients across different age groups.
 - Personal loan: Analysis highlighting the uptake of personal loan products among the client base.
 - Housing loan: Insights into the engagement levels and preferences regarding housing loan offerings.
